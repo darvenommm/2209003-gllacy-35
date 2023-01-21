@@ -1,5 +1,7 @@
 # Личный проект «Глейси»
 
+## [Можно посетить этот сайт](https://darvenommm.github.io/2209003-gllacy-35/)
+
 - Студент: [Денис Ромоданов](https://up.htmlacademy.ru/htmlcss/35/user/2209003).
 - Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
